@@ -1,3 +1,14 @@
+/**
+ * Authors:   Gowri Umesh <mailgowriumesh@gmail.com>
+              Abigail Pop  
+ * Created:   24.Jun.2020
+ * Version:   0.1
+ *
+ * Description:This header finds the shortest path between
+ * a start cell and an end cell of a given 3D grid
+ * The co
+
+
 #include <opencv2/photo.hpp>
 #include <opencv2/opencv.hpp>
 #include "opencv2/imgcodecs.hpp"
