@@ -4,9 +4,10 @@
  * Created:   24.Jun.2020
  * Version:   0.1
  *
- * Description:This header finds the shortest path between
- * a start cell and an end cell of a given 3D grid
- * The co
+ * Description: This code implements the exposure control by maximizing
+ * a robust gradient-based image quality metrics to improve robustness 
+ * of visual odometry in challenging illumination conditions using HDR images.
+ **/
 
 
 #include <opencv2/photo.hpp>
